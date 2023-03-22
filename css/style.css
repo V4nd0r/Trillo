@@ -60,7 +60,7 @@ body {
     background-color: var(--color-grey-light-2);
     border: none;
     padding: .7rem 2rem;
-    border-radius: 50px;
+    border-radius: 100px;
     width: 90%;
     transition: all .2s;
     margin-right: -3.25rem; }
@@ -358,7 +358,7 @@ body {
     font-size: 1.1rem;
     font-weight: 600;
     text-transform: uppercase;
-    margin-bottom: 4rem; }
+    margin-bottom: .4rem; }
   .review__user-date {
     font-size: 1rem;
     color: var(--color-grey-dark-3); }
