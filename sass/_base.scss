@@ -16,12 +16,6 @@
     --shadow-light: 0 2rem 5rem rgba(0,0,0,.06);
 
     --line: 1px solid var(--color-grey-light-2);
-
-}
-
-*{
-    margin: 0;
-    padding: 0;
 }
 
 $bp-largest: 75em;              //1200px
@@ -30,6 +24,10 @@ $bp-medium: 56.26em;            //900px
 $bp-small: 37.5em;              //600px
 $bp-smallest: 31.25em;          //500px
 
+* {
+    margin: 0;
+    padding: 0;
+}
 
 *,
 *::before,
